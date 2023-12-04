@@ -14,5 +14,3 @@ We finished and solved the following problems:
 3. correctly generate RGB values of 8x8 blocks
 
 We try our best and spend much time on debugging to write the JPEG decoder, but the program still cannot output the correct bitmap image.
-
-We upload the programs to github: 
